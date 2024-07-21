@@ -1,0 +1,48 @@
+[2024-07-19 20:59:46,274] INFO  com.natwest.reportGen.services.FilesUploadService - Request received for upload files. 
+[2024-07-19 20:59:46,275] INFO  com.natwest.reportGen.services.FilesUploadService - Request validated for upload files
+[2024-07-19 20:59:46,276] INFO  com.natwest.reportGen.services.FilesUploadService - Directory found/created for upload files
+[2024-07-19 20:59:46,277] INFO  com.natwest.reportGen.services.FilesUploadService - Directory cleared for upload files
+[2024-07-19 20:59:47,165] INFO  com.natwest.reportGen.services.FilesUploadService - Input file uploaded
+[2024-07-19 20:59:47,603] INFO  com.natwest.reportGen.services.FilesUploadService - Reference file uploaded
+[2024-07-19 21:00:02,176] INFO  com.natwest.reportGen.services.ReportService - Attempting to read file from path: src/main/resources/uploads/
+[2024-07-19 21:00:02,177] ERROR com.natwest.reportGen.services.ReportService - File not found at path: src/main/resources/uploads/
+[2024-07-19 21:00:07,985] INFO  com.natwest.reportGen.services.ReportService - Starting report generation
+[2024-07-19 21:00:36,353] INFO  com.natwest.reportGen.services.FileProcessorService - File deleted : src/main/resources/uploads/input.csv
+[2024-07-19 21:00:36,441] INFO  com.natwest.reportGen.services.FileProcessorService - File deleted : src/main/resources/uploads/reference.csv
+[2024-07-19 21:00:36,441] INFO  com.natwest.reportGen.services.ReportService - Report generation completed successfully
+[2024-07-19 21:02:28,473] INFO  com.natwest.reportGen.services.ReportService - Attempting to read file from path: src/main/resources/uploads/
+[2024-07-19 21:02:29,001] INFO  com.natwest.reportGen.services.ReportService - Successfully read file from path: src/main/resources/uploads/
+[2024-07-19 21:02:37,453] INFO  com.natwest.reportGen.services.ReportService - Attempting to read file from path: src/main/resources/uploads/
+[2024-07-19 21:02:37,862] INFO  com.natwest.reportGen.services.ReportService - Successfully read file from path: src/main/resources/uploads/
+[2024-07-19 21:03:02,991] INFO  com.natwest.reportGen.services.ReportService - Attempting to read file from path: src/main/resources/uploads/
+[2024-07-19 21:03:03,418] INFO  com.natwest.reportGen.services.ReportService - Successfully read file from path: src/main/resources/uploads/
+[2024-07-19 21:05:47,120] INFO  com.natwest.reportGen.services.ReportService - Attempting to read file from path: src/main/resources/uploads/
+[2024-07-19 21:05:47,510] INFO  com.natwest.reportGen.services.ReportService - Successfully read file from path: src/main/resources/uploads/
+[2024-07-21 11:46:58,462] INFO  com.natwest.reportGen.services.ReportService - Attempting to read file from path: test/path/
+[2024-07-21 11:46:58,463] WARN  com.natwest.reportGen.services.ReportService - File is being processed at path: test/path/
+[2024-07-21 11:46:58,487] INFO  com.natwest.reportGen.services.ReportService - Report Already Processed
+[2024-07-21 11:46:58,536] INFO  com.natwest.reportGen.services.ReportService - Starting report generation
+[2024-07-21 11:46:58,540] INFO  com.natwest.reportGen.services.ReportService - Report generation completed successfully
+[2024-07-21 11:46:58,739] INFO  com.natwest.reportGen.services.FilesUploadService - Request received for upload files. 
+[2024-07-21 11:46:58,746] INFO  com.natwest.reportGen.services.FilesUploadService - Request received for upload files. 
+[2024-07-21 11:55:18,929] INFO  com.natwest.reportGen.services.ReportService - Attempting to read file from path: test/path/
+[2024-07-21 11:55:18,930] WARN  com.natwest.reportGen.services.ReportService - File is being processed at path: test/path/
+[2024-07-21 11:55:18,963] INFO  com.natwest.reportGen.services.ReportService - Report Already Processed
+[2024-07-21 11:55:19,013] INFO  com.natwest.reportGen.services.ReportService - Starting report generation
+[2024-07-21 11:55:19,017] INFO  com.natwest.reportGen.services.ReportService - Report generation completed successfully
+[2024-07-21 11:55:19,170] INFO  com.natwest.reportGen.services.FilesUploadService - Request received for upload files. 
+[2024-07-21 11:55:19,177] INFO  com.natwest.reportGen.services.FilesUploadService - Request received for upload files. 
+[2024-07-21 11:57:34,747] INFO  com.natwest.reportGen.services.ReportService - Attempting to read file from path: test/path/
+[2024-07-21 11:57:34,748] WARN  com.natwest.reportGen.services.ReportService - File is being processed at path: test/path/
+[2024-07-21 11:57:34,809] INFO  com.natwest.reportGen.services.ReportService - Report Already Processed
+[2024-07-21 11:57:34,908] INFO  com.natwest.reportGen.services.ReportService - Starting report generation
+[2024-07-21 11:57:34,912] INFO  com.natwest.reportGen.services.ReportService - Report generation completed successfully
+[2024-07-21 11:57:35,213] INFO  com.natwest.reportGen.services.FilesUploadService - Request received for upload files. 
+[2024-07-21 11:57:35,228] INFO  com.natwest.reportGen.services.FilesUploadService - Request received for upload files. 
+[2024-07-21 11:58:16,390] INFO  com.natwest.reportGen.services.ReportService - Attempting to read file from path: test/path/
+[2024-07-21 11:58:16,390] WARN  com.natwest.reportGen.services.ReportService - File is being processed at path: test/path/
+[2024-07-21 11:58:16,415] INFO  com.natwest.reportGen.services.ReportService - Report Already Processed
+[2024-07-21 11:58:16,474] INFO  com.natwest.reportGen.services.ReportService - Starting report generation
+[2024-07-21 11:58:16,481] INFO  com.natwest.reportGen.services.ReportService - Report generation completed successfully
+[2024-07-21 11:58:16,612] INFO  com.natwest.reportGen.services.FilesUploadService - Request received for upload files. 
+[2024-07-21 11:58:16,624] INFO  com.natwest.reportGen.services.FilesUploadService - Request received for upload files. 
